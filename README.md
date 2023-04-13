@@ -1,6 +1,19 @@
-# vite-on-pages
+# Website from 0 to 1
+    从0到1，step by step建立一个网站，用来介绍如何从0到1建立一个网站
 
-This template should help get you started developing with Vue 3 in Vite.
+- 项目主要是用来学习网站开发及部署的整个流程，主要是集中在整个过程中全栈知识的利用，而非系统完整的展开，目标导向，实用为主
+- Steps：
+    - vscode + plugins
+    - vite + vue3
+    - git、gh、github
+    - ssh
+    - figma design
+    - coding
+    - test
+    - commit
+    - build
+    - deploy to cloudflare Pages
+    
 
 ## Recommended IDE Setup
 
